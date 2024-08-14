@@ -1,4 +1,4 @@
-### 1991. Find the Middle Index in Array
+# 1991. Find the Middle Index in Array
 
 Given a 0-indexed integer array `nums`, find the leftmost `middleIndex` (i.e., the smallest amongst all the possible ones).
 
