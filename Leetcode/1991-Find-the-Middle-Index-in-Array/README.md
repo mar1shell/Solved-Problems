@@ -8,7 +8,9 @@ If `middleIndex == 0`, the left side sum is considered to be 0. Similarly, if `m
 
 Return the leftmost `middleIndex` that satisfies the condition, or -1 if there is no such index.
 
-## Example 1:
+## Examples:
+
+**Example 1:**
 
 **Input:** `nums = [2,3,-1,8,4]`
 
@@ -16,7 +18,7 @@ Return the leftmost `middleIndex` that satisfies the condition, or -1 if there i
 
 **Explanation:** The sum of the numbers before index 3 is: 2 + 3 + -1 = 4. The sum of the numbers after index 3 is: 4 = 4.
 
-## Example 2:
+**Example 2**
 
 **Input:** `nums = [1,-1,4]`
 
@@ -24,7 +26,7 @@ Return the leftmost `middleIndex` that satisfies the condition, or -1 if there i
 
 **Explanation:** The sum of the numbers before index 2 is: 1 + -1 = 0. The sum of the numbers after index 2 is: 0.
 
-## Example 3:
+**Example 3:**
 
 **Input:** `nums = [2,5]`
 
